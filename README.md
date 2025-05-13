@@ -56,7 +56,6 @@ pip install flask RPi.GPIO
 mkdir GPIO_Web_Control
 cd GPIO_Web_Control
 git clone git@github.com:pierre-bouckson/gpio-web-control.git
-cd <your_repository_folder>
 ```
 
 ### Run the Python Server
